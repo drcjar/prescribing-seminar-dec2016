@@ -19,6 +19,8 @@
 - C. a brief statement containing information about the publication of a book such as the place of publication, the publisher, and the date of publication
 - D. a rumbling, growling or gurgling noise produced by movement of the contents of the gastro-intestinal tract 
 
+## Can you identify the following?
+
 ## Exhibit 1 
 
 ## {data-background="images/colophon1.jpg"}
@@ -46,19 +48,18 @@
 
 # GP Prescribing Datas
 
-## 
+## scraper wiki girl things 
 
 
 # Example project(s) 
 
+## nod to presc analytics, openprescribing
+## datasift mans work
+## detail on disp vs non-disp
 
 # Questions?
 
 # Carl's colophon? 
 
-##
-
-1. Feary, Johanna, Hilary Pinnock, and Paul Cullinan. Occupational asthma. BMJ 353 (2016): i2658.
-2. Occupational and Environmental Lung Diseases: Diseases from Work, Home, Outdoor and Other Exposures. Susan Tarlo (Editor), Paul Cullinan (Editor), Benoit Nemery (Editor). 
-3. A Clinical Guide to Occupational and Environmental Lung Diseases. Editors: Huang, Yuh-Chin T., Ghio, Andrew J., Maier, Lisa A. (Eds.)
+## ma stack
 
