@@ -5,16 +5,24 @@
 # Today you will learn (if you didn't know it already)
 
 ##
-1. The difference between Colphon, Colophon, colophōn, and colophony  
+1. The difference between Colphon, colophōn, and colophony  
 2. The difference between python and python 
 3. That GP Prescribing Datasets are available and fun to play with (with a special look at puffers and pecuniary matters)
 
 # Christmas Colophon Quiz
 
-## A
+## Exhibit A
 
 ## {data-background="images/colophon1.jpg"}
 
+## Exhibit B 
+ 
+## {data-background="images/colophon2.jpg"}
+
+## Exhibit C
+
+## {data-background="images/colophon3.jpg"}
+   
 
 
 Regimen Sanitatis Salernitanum 
