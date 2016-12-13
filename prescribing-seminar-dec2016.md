@@ -5,16 +5,16 @@
 # Today you will learn (if you didn't know it already)
 
 ##
-1. The difference between colophōn and Colophon  
+1. The difference between Colphon, Colophon, colophōn, and colophony  
 2. The difference between python and python 
-3. That GP Prescribing Datasets are available and fun to play with
+3. That GP Prescribing Datasets are available and fun to play with (with a special look at puffers and pecuniary matters)
 
-# Lungs at work 
+# Christmas Colophon Quiz
+ 
+## {data-background="images/colophon1.jpg"}
 
-##
 
-> "The air must be pure, habitable, and bright, It should be neither
-> contaminated nor smell of the sewer"
+> A
 
 Regimen Sanitatis Salernitanum 
 
