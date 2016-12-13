@@ -46,12 +46,13 @@
 ## {data-bakcground="images/python2.jpg"}
 
 
-# GP Prescribing Datas
+# What the GP Prescribing Data is
 
 ## scraper wiki girl things 
 
+# Why the GP Prescribing Data is fun
 
-# Example project(s) 
+Example project(s) 
 
 ## nod to presc analytics, openprescribing
 ## datasift mans work
