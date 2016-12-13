@@ -45,7 +45,7 @@
 
 ## {data-background="images/python1.jpg"}
 
-## {data-bakcground="images/python2.jpg"}
+## {data-background="images/python2.jpg"}
 
 
 # What the GP Prescribing Data is
