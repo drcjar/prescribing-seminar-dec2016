@@ -1,4 +1,4 @@
-% Python, prescribing && google big query
+% Python, prescribing && gbq
 % Carl Reynolds / @drcjar / www.carlreynolds.net 
 % 14 December 2016
 
@@ -10,11 +10,12 @@
 3. That GP Prescribing Datasets are available and fun to play with (with a special look at puffers and pecuniary matters)
 
 # Christmas Colophon Quiz
- 
+
+## A
+
 ## {data-background="images/colophon1.jpg"}
 
 
-> A
 
 Regimen Sanitatis Salernitanum 
 
