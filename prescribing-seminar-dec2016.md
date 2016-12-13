@@ -40,14 +40,17 @@
 ## {data-bakcground="python2.jpg"}
 
 
-# GP Prescribing Datasets
+# GP Prescribing Datas
 
-# Prescribing analysis example
+## 
+
+
+# Example project(s) 
 
 
 # Questions?
 
-# Carl's colophon 
+# Carl's colophon? 
 
 ##
 
