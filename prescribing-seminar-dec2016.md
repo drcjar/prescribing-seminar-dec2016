@@ -25,7 +25,6 @@
    
 
 
-Regimen Sanitatis Salernitanum 
 
 <div class="notes">
 - Medieval didactic poem 
