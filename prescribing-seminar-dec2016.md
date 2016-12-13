@@ -41,9 +41,9 @@
 
 ## Python (the programming language) is named after:
 
-## {data-background="python1.jpg"}
+## {data-background="images/python1.jpg"}
 
-## {data-bakcground="python2.jpg"}
+## {data-bakcground="images/python2.jpg"}
 
 
 # GP Prescribing Datas
