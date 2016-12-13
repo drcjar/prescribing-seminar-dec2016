@@ -1,4 +1,4 @@
-% Python, prescribing, and google big query
+% Python, prescribing && google big query
 % Carl Reynolds / @drcjar / www.carlreynolds.net 
 % 14 December 2016
 
