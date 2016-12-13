@@ -12,6 +12,8 @@
 # Christmas Colophon Quiz
 
 ## which of the following is not a colophon?
+
+##
 - A. a city in ancient Greece, located in modern Turkey
 - B. a small genus of beetles in the stag beetle family Lucanidae
 - C. a brief statement containing information about the publication of a book such as the place of publication, the publisher, and the date of publication
