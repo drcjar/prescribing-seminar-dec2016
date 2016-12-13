@@ -1,10 +1,11 @@
-% Python, prescribing && gbq
+% Colophons, Python, and Prescribing
 % Carl Reynolds / @drcjar / www.carlreynolds.net 
 % 14 December 2016
 
 # Today you will learn (if you didn't know it already)
 
 ##
+
 1. The difference between colophon and colophony  
 2. The difference between python and python 
 3. What the GP Prescribing Data is and why it's fun 
@@ -14,6 +15,7 @@
 ## which of the following is not a colophon?
 
 ##
+
 - A. a city in ancient Greece, located in modern Turkey
 - B. a small genus of beetles in the stag beetle family Lucanidae
 - C. a brief statement containing information about the publication of a book such as the place of publication, the publisher, and the date of publication
