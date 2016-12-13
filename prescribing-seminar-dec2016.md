@@ -33,7 +33,9 @@
 
 ## Exhibit 4 
 
-## {data-background="images/colophon4.jpg}
+## {data-background="images/colophon4.jpg"}
+
+# Christmas Python Quiz
 
 ## Python (the programming language) is named after:
 
