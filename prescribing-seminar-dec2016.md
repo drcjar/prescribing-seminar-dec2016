@@ -59,7 +59,7 @@
 4. Organisation Data Service release a wealth of supporting data (all documented in a single 158 page pdf)
 5. All released under the OGL (Open Government Licence) by NHS Digital (formerly HSCIC). Sometimes some data (e.g dispensing practices) also released by NHS Business Services Authority...
 
-## "Presentation-level" data
+## Presentation-level data
 
 ##
 - Strategic health authority (SHA) code (3 characters)
@@ -73,7 +73,7 @@
 - Quantity
 - Processing date (YYYYMM)
 
-## "challenges"
+## Challenges
 - variable amounts of white space in the data
 - not all gp practices are gp practices...
 - the BNF code is no the BNF code
@@ -110,6 +110,7 @@
 
 Prescribing data uses modified version of BNF which was current in 2014
 
+## {data-background="images/bnf_code_understander.png"} 
 
 
 # Why GP Prescribing Data is fun
