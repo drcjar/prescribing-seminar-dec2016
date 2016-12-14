@@ -48,11 +48,30 @@
 ## {data-background="images/python2.jpg"}
 
 
-# What the GP Prescribing Data is
+# What GP Prescribing Data is
 
-## scraper wiki girl things 
+## An overview
 
-# Why the GP Prescribing Data is fun
+1. A monthly timeseries since August 2010
+2. "Presentation-level" prescribing data for all GP practices in England
+3. 10 columns, over 4 million rows, per month for 72 months to date
+4. Organisation Data Service release a wealth of supporting data (all documented in a single 158 page pdf)
+5. All released under the OGL (Open Government Licence) by NHS Digital (formerly HSCIC). Sometimes some data (e.g dispensing practices) also released by NHS Business Services Authority...
+
+## "Presentation-level" data
+
+- Strategic health authority (SHA) code (3 characters)
+- Primary care trust (PCT) code (3 characters)
+- Practice code (6 characters)
+- British National Formulary (BNF) code (15 characters) 
+- BNF name (truncated to 40 characters) 
+- Total Items
+- Total Net Ingredient Cost (£) 
+- Total Actual cost (£) 
+- Quantity
+- Processing date (YYYYMM)
+
+# Why GP Prescribing Data is fun
 
 ##
 Example project(s) 
