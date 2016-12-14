@@ -89,9 +89,6 @@
 - 8 = Public Health Service
 - 9 = Community Health Service
 - 10 = Hospital Service
-
-##
-
 - 11 = Optometry Service
 - 12 = Urgent & Emergency Care
 - 13 = Hospice
