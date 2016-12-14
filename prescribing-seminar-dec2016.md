@@ -58,7 +58,7 @@
 ##
 1. A monthly timeseries since August 2010
 2. "Presentation-level" prescribing data for all GP practices in England
-3. Over 70,000 different drugs, about 8000 practics, 10 columns, over 4 million rows, per month for 72 months to date (well over 80gb of data)
+3. Over 70,000 different drugs, about 8000 practices, 10 columns, over 4 million rows, per month for 72 months to date (well over 80gb of data)
 4. [Organisation Data Service](https://digital.nhs.uk/organisation-data-service) release a wealth of supporting data (all documented in a single 158 page pdf)
 5. All released under the OGL (Open Government Licence) by NHS Digital (formerly HSCIC). Sometimes some data (e.g dispensing practices) also released by NHS Business Services Authority...
 
@@ -128,13 +128,20 @@ Prescribing data uses modified version of BNF which was current in 2014
 ##
 Example project(s) 
 
-## nod to presc analytics, openprescribing
+## prescribinganalytics.com
+## openprescribing.net
+## dispensing vs non-dispensing practices
 ## datasift mans work
-## detail on disp vs non-disp
+## puffer prescriber primer
 
 # Questions?
 ##
 
 # Carl's colophon? 
 
-## ma stack
+## How this presentation was made
+
+- written in markdown using vim
+- converted to revealjs with pandoc
+- jupyter and pandas used for analysis
+- static content served using github
