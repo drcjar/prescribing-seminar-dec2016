@@ -110,8 +110,8 @@
 
 Prescribing data uses modified version of BNF which was current in 2014
 
-## {data-background="images/bnf_code_understander.png"} 
-
+## 
+![bnf_code_understander](images/bnf_code_understander.png)
 
 # Why GP Prescribing Data is fun
 
