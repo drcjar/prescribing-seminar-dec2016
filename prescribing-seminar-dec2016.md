@@ -2,6 +2,13 @@
 % Carl Reynolds / @drcjar / www.carlreynolds.net 
 % 14 December 2016
 
+# Supporting materials
+
+##
+
+> https://github.com/drcjar/prescribing-seminar-dec2016/
+
+
 # Today you will learn (if you didn't know it already)
 
 ##
@@ -158,3 +165,8 @@ Which of the following is statements is true?
 - converted to revealjs with pandoc
 - jupyter and pandas used for analysis
 - static content served using github
+- repository lives at: 
+
+> https://github.com/drcjar/prescribing-seminar-dec2016/
+
+
