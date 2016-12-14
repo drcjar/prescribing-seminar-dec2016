@@ -125,11 +125,12 @@ Prescribing data uses modified version of BNF which was current in 2014
 
 # Why GP Prescribing Data is fun
 
-##
-Example project(s) 
+## Example project(s) 
 
-## prescribinganalytics.com
-## openprescribing.net
+##
+
+## prescribinganalytics
+## openprescribing
 ## dispensing vs non-dispensing practices
 ## datasift mans work
 ## puffer prescriber primer
@@ -141,6 +142,7 @@ Example project(s)
 
 ## How this presentation was made
 
+##
 - written in markdown using vim
 - converted to revealjs with pandoc
 - jupyter and pandas used for analysis
