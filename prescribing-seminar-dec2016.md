@@ -55,7 +55,7 @@
 ##
 1. A monthly timeseries since August 2010
 2. "Presentation-level" prescribing data for all GP practices in England
-3. 10 columns, over 4 million rows, per month for 72 months to date (well over 80gb of data)
+3. Over 70,000 different drugs, about 8000 practics, 10 columns, over 4 million rows, per month for 72 months to date (well over 80gb of data)
 4. Organisation Data Service release a wealth of supporting data (all documented in a single 158 page pdf)
 5. All released under the OGL (Open Government Licence) by NHS Digital (formerly HSCIC). Sometimes some data (e.g dispensing practices) also released by NHS Business Services Authority...
 
@@ -72,6 +72,44 @@
 - Total Actual cost (£) 
 - Quantity
 - Processing date (YYYYMM)
+
+## "challenges"
+- variable amounts of white space in the data
+- not all gp practices are gp practices...
+- the BNF code is no the BNF code
+- denominators
+
+##
+
+- 0 = Other
+- 1 = WIC Practice
+- 2 = OOH Practice
+- 3 = WIC + OOH Practice
+- 4 = GP Practice
+- 8 = Public Health Service
+- 9 = Community Health Service
+- 10 = Hospital Service
+
+##
+
+- 11 = Optometry Service
+- 12 = Urgent & Emergency Care
+- 13 = Hospice
+- 14 = Care Home / Nursing Home
+- 15 = Border Force
+- 16 = Young Offender Institution
+- 17 = Secure Training Centre
+- 18 = Secure Children's Home
+- 19 = Immigration Removal Centre
+- 20 = Court
+- 21 = Police Custody
+- 22 = Sexual Assault Referral Centre (SARC)
+- 24 = Other
+
+##
+
+Prescribing data uses modified version of BNF which was current in 2014
+
 
 
 # Why GP Prescribing Data is fun
