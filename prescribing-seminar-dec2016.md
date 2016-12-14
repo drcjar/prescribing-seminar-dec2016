@@ -129,11 +129,22 @@ Prescribing data uses modified version of BNF which was current in 2014
 
 ##
 
-## prescribinganalytics
-## openprescribing
+## prescribing analytics
+## open prescribing
 ## dispensing vs non-dispensing practices
 ## datasift mans work
 ## puffer prescriber primer
+
+# Christmas Prescribing Quiz
+
+##
+Which of the following is statements is true?
+
+- A. NHS Digital data releases follow standard consistent file naming formats
+- B. NHS Digital metadata releases are easily accessible on the web and not hidden away inside pdfs
+- C. All of the supporting data needed to work with GP Prescribing data is readily available in one place
+- D. GP Prescribing Data has some shortcomings but can be fun to work with
+
 
 # Questions?
 ##
